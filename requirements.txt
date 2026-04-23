@@ -5,7 +5,7 @@ celery[sqs]==5.6.3
 # pycurl and boto3 are included via celery[sqs] for Celery Broker AWS (SQS) support
 defusedxml==0.7.1
 django_celery_results==2.6.0
-django-auditlog==3.2.1
+django-auditlog==3.4.1
 django-pghistory==3.9.2
 django-dbbackup==5.3.0
 django-environ==0.13.0
